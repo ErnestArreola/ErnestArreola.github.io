@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.section {
+  padding: 70px 0;
+  position: relative;
+}
+
+
+.section-navbars {
+  padding-bottom: 0;
+}
