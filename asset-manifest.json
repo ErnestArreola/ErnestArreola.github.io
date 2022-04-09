@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a17c2a34.css",
-    "main.js": "/static/js/main.cf511c7a.js",
+    "main.css": "/static/css/main.d0ae1b3a.css",
+    "main.js": "/static/js/main.d6ddd26c.js",
     "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
     "static/media/building_2.mp4": "/static/media/building_2.bb2718be9e282fd4c8b5.mp4",
     "static/media/Artboard-9.png": "/static/media/Artboard-9.29176a25df8f485314e4.png",
@@ -18,7 +18,6 @@
     "static/media/Native2.png": "/static/media/Native2.e6fe3862efce881d0cd7.png",
     "static/media/Native-Cover3.png": "/static/media/Native-Cover3.bf511caa6a9a2c4f9309.png",
     "static/media/Spotify-title.png": "/static/media/Spotify-title.0ffbd479463e7955743f.png",
-    "static/media/Resume-Pic.png": "/static/media/Resume-Pic.00d7bfed20a993f97525.png",
     "static/media/Spotify-4.png": "/static/media/Spotify-4.8ee3c52ca450e200fd72.png",
     "static/media/pulseScreen4.png": "/static/media/pulseScreen4.6f40f541939e1226dbf4.png",
     "static/media/Spotify-1.png": "/static/media/Spotify-1.9790002936628a73c3a6.png",
@@ -28,12 +27,12 @@
     "static/media/logo-4.png": "/static/media/logo-4.df59c0a58bf748a8a3ce.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.a17c2a34.css.map": "/static/css/main.a17c2a34.css.map",
-    "main.cf511c7a.js.map": "/static/js/main.cf511c7a.js.map",
+    "main.d0ae1b3a.css.map": "/static/css/main.d0ae1b3a.css.map",
+    "main.d6ddd26c.js.map": "/static/js/main.d6ddd26c.js.map",
     "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a17c2a34.css",
-    "static/js/main.cf511c7a.js"
+    "static/css/main.d0ae1b3a.css",
+    "static/js/main.d6ddd26c.js"
   ]
 }
